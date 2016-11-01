@@ -1,0 +1,16 @@
+setup.py
+scripts/manage.py
+soilmoisture/__init__.py
+soilmoisture/urls.py
+soilmoisture/wsgi.py
+soilmoisture.egg-info/PKG-INFO
+soilmoisture.egg-info/SOURCES.txt
+soilmoisture.egg-info/dependency_links.txt
+soilmoisture.egg-info/requires.txt
+soilmoisture.egg-info/top_level.txt
+soilmoisture/apps/__init__.py
+soilmoisture/apps/apps.py
+soilmoisture/apps/views.py
+soilmoisture/settings/__init__.py
+soilmoisture/settings/development.py
+soilmoisture/settings/production.py
