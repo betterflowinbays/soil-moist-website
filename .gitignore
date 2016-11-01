@@ -2,9 +2,6 @@
 *.py[oc]
 *~
 __pycache__/
-sm_ENV
-db.sqlite3
-/static
 
 # IDE files
 .idea/
