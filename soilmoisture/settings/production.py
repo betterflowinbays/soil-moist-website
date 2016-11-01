@@ -28,7 +28,7 @@ ROOT_URLCONF = 'soilmoisture.urls'
 WSGI_APPLICATION = 'soilmoisture.wsgi.application'
 
 INSTALLED_APPS = (
-    'soilmoisture'
+    'soilmoisture',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
